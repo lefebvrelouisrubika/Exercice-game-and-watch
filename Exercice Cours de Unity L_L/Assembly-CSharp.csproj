@@ -63,8 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\LOL_Scripts\ScriptMoveLuigi.cs" />
-    <Compile Include="Assets\LOL_Scripts\ScriptMoveMario.cs" />
+    <Compile Include="Assets\LOL_Scripts\CadeauBehaviour.cs" />
+    <Compile Include="Assets\LOL_Scripts\ScriptsMove\ScriptMoveLuigi.cs" />
+    <Compile Include="Assets\LOL_Scripts\ScriptsMove\ScriptMoveMario.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/lefeb/Documents/exercice programmation/Exercice-game-and-watch/Exercice Cours de Unity L_L/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
