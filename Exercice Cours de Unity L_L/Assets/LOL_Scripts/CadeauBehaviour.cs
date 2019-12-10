@@ -9,6 +9,8 @@ public class CadeauBehaviour : MonoBehaviour
     private float CooldownLenght;
     private float Cooldown;
     public float PositionCadeau;
+
+
     void Start()
     {
         Cooldown = initCooldown;
